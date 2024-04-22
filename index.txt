@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+
+<html><head>
+</head><body background="./index_files/f25Uj4G.jpg"><h1 style="font-size: 35px;text-align:center">🌸🌸🌸🌸🌸秋田県へようこそ🌸🌸🌸🌸🌸</h1>
+<marquee style="font-size: 30px;text-align:center scrollamount=" 30"="">🌸Welcome to Akita Prefecture🌸</marquee>
+
+
+
+
+    <style>
+      li {
+        display: inline-block;
+      }
+    </style>
+  
+  
+<div style="text-align:center;">
+    <ul>
+      <li><a href="file:///C:/Users/user/Desktop/index/index.html"><img src="./index_files/O98ukHP.jpg" width="120" height="120"></a></li>
+      <li><a href="file:///C:/Users/user/Desktop/index/sightseeing.html"><img src="./index_files/phnOmAb.jpg" width="120" height="120"></a></li>
+      <li><a href="file:///C:/Users/user/Desktop/index/event.html"><img src="./index_files/plQN5ro.jpg" width="120" height="120"></a></li>
+      <li><a href="file:///C:/Users/user/Desktop/index/food.html"><img src="./index_files/YNqDMM6.jpg" width="120" height="120"></a></li>
+      <li><a href="file:///C:/Users/user/Desktop/index/enquiry.html"><img src="./index_files/TBctzdr.jpg" width="120" height="120"></a></li>
+    </ul>
+</div>
+  
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+<div id="slideshow">
+	<centre><img src="./index_files/f9yzzaB.jpg" width="700" height="400" style="display: none;">
+	<centre><img src="./index_files/5idWMUA.jpg" style="display: none;" width="700" height="400">
+	<centre><img src="./index_files/JAlhXVf.jpg" style="display: block;" width="700" height="400">
+	<centre><img src="./index_files/hAIrni1.jpg" style="display: none;" width="700" height="400">
+	<centre><img src="./index_files/wFXmc5z.jpg" style="display: none;" width="700" height="400">
+        <centre><img src="./index_files/VqztVh7.jpg" style="display: none;" width="700" height="400">
+</centre></centre></centre></centre></centre></centre></div>
+<script>
+var slideshow = document.getElementById('slideshow');
+var slides = slideshow.getElementsByTagName('img');
+var idx = 0;
+function changeSlide() {
+	slides[idx].style.display = 'none';
+	idx = (idx + 1) % slides.length;
+	slides[idx].style.display = 'block';
+}
+setInterval(changeSlide, 3000);
+</script>
+</body></html>

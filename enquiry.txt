@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<!-- saved from url=(0102)file:///C:/Users/user/Desktop/html/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/enquiry.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title></title>
+<script language="JavaScirpt">
+<!--
+function Check(){
+    if(document.myform.Name.value==""){
+         alert("名前を入力してください。”);
+         return false;
+    }
+    if(document.myform.Email.value==""){
+         alert("Eメールアドレスを入力してください。”);
+         return false;
+    ｝
+    if(document.myform.Email.value.indexOf("@")<=0){
+         alert("Eメールアドレスがただしくありません。”);
+         return false;
+    ｝
+    if(document.myform.Comment.value==""){
+         alert("コメントを入力してください。”);
+         return false;
+    ｝
+    return true;
+}
+//-->
+</script>
+
+</head><body background="./enquiry_files/xPS06ps.jpg">
+<style>
+body {
+   background-size: cover;
+}
+</style>
+
+    <style>
+      li {
+        display: inline-block;
+      }
+    </style>
+  
+  
+<div style="text-align:center;">
+    <ul>
+      <li><a href="file:///C:/Users/user/Desktop/index/index.html"><img src="./enquiry_files/O98ukHP.jpg" width="150" height="150"></a></li>
+      <li><a href="file:///C:/Users/user/Desktop/html/%E8%A6%B3%E5%85%89/sightseeing.html"><img src="./enquiry_files/phnOmAb.jpg" width="150" height="150"></a></li>
+      <li><a href="file:///C:/Users/user/Desktop/html/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/event.html"><img src="./enquiry_files/plQN5ro.jpg" width="150" height="150"></a></li>
+      <li><a href="file:///C:/Users/user/Desktop/html/%E3%82%B0%E3%83%AB%E3%83%A1/food.html"><img src="./enquiry_files/YNqDMM6.jpg" width="150" height="150"></a></li>
+      <li><a href="file:///C:/Users/user/Desktop/html/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/enquiry.html"><img src="./enquiry_files/TBctzdr.jpg" width="150" height="150"></a></li>
+    </ul>
+</div>
+
+<h1 style="text-align:center;font-size:60px;color:white">お問い合わせ</h1>
+
+<center>
+<form action="mailto:%E9%80%81%E3%82%8A%E5%85%88E%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E2%80%9Dmethod=" post"="" enctype="text/plain" name="myform" onsubmit="return Check()">
+<table border="0">
+<tbody><tr><td>お名前：</td><td><input name="Name" size="30"></td></tr>
+<tr><td>Eメール：</td><td><input name="Email" size="30"></td></tr>
+<tr><td>コメント：</td><td><textarea name="content" rows="5" cols="32"></textarea></td></tr>
+</tbody></table><br>
+<input type="submit" value="送信">
+</form></center>
+
+<style>
+tr{
+  font-size: 20px; 
+}
+</style>
+</body></html>

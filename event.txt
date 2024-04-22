@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<!-- saved from url=(0082)file:///C:/Users/user/Desktop/html/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/event.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title></title>
+</head>
+<body background="./event_files/Pq3EDDI.jpg">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+body {
+   background-repeat:no-repeat;
+   background-size:cover;
+   background-attachment: fixed;
+}
+</style>
+
+
+    <style>
+      li {
+        display: inline-block;
+      }
+    </style>
+  
+  
+<div style="text-align:center">
+    <ul>
+      <li><a href="file:///C:/Users/user/Desktop/index/index.html"><img src="./event_files/O98ukHP.jpg" width="150" height="150"></a></li>
+      <li><a href="file:///C:/Users/user/Desktop/html/%E8%A6%B3%E5%85%89/sightseeing.html"><img src="./event_files/phnOmAb.jpg" width="150" height="150"></a></li>
+      <li><a href="file:///C:/Users/user/Desktop/index/event.html"><img src="./event_files/plQN5ro.jpg" width="150" height="150"></a></li>
+      <li><a href="file:///C:/Users/user/Desktop/html/%E3%82%B0%E3%83%AB%E3%83%A1/food.html"><img src="./event_files/YNqDMM6.jpg" width="150" height="150"></a></li>
+      <li><a href="file:///C:/Users/user/Desktop/html/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/enquiry.html"><img src="./event_files/TBctzdr.jpg" width="150" height="150"></a></li>
+      </ul>
+</div>
+
+<h1 style="text-align:center;font-size:60px;color: #160F87">イベント</h1>
+
+<p><img src="./event_files/HS1d4ud.jpg" style="float:right;max-width:600px;border:3px solid;border-radius:5px;margin-right:3%;"></p>
+
+<h2>全国花火競技大会「大曲の花火」</h2>
+<style>
+h2{
+  font-size: 35px;
+  color: #160F87;
+  margin-left:6%;
+　}
+</style>
+
+<div>&nbsp;&nbsp;「日本三大花火大会」と呼ばれているのは、秋田県大仙市の
+「全国花火競技大会(大曲の花火)」、茨城県土浦市の
+「土浦全国花火競技大会」、新潟県長岡市の「長岡まつり大花火大会」
+の3つ。「大曲の花火」は全国から選抜された一流の花火師たちが腕を競い合う、
+秋田として東北の夏を代表するイベントです。毎年8月最終土曜日に
+開催されています。出羽丘陵を背景にした観覧会場は、花火鑑賞するには絶好の
+ロケーションとなっております。</div>
+<style>
+div{
+  font-size: 20px;
+  color: #160F87;
+  margin-left:4%;  
+}
+</style>
+
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<p><a href="https://ohmatsuri.com/ja/articles/akita-kanto-festival"><img src="./event_files/OQAJffZ.jpg" style="float:left;max-width:600px;border:3px solid;border-radius:5px;margin-left:3%;"></a></p>
+
+<h3>&nbsp;&nbsp;&nbsp;秋田竿燈まつり</h3>
+<style>
+h3{
+  font-size: 35px;
+  color: #160F87;
+  }
+</style>
+
+<div>&nbsp;&nbsp;「秋田竿燈まつり」のいちばんの見どころは、差し手の妙技です。
+50kgもある大きな竿燈を持ち歩くだけではなく、
+手のひら、腰、額、肩の1点に竿燈を乗せて支える熟練の技を繰り広げ
+ます。竿燈は長さ12mありますが、さらに演技の途中で
+「継竹（つぎだけ）」と呼ばれる竹を足して高さ増すのです。
+1本約1.2mの継竹を徐々につなぎ、高さは最大で20mほどにも達します。</div>
+
+<style>
+div{
+  font-size: 20px;
+  color: #160F87;
+  margin-left:3%
+  }
+</style>
+
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<p><img src="./event_files/5Fcxtme.jpg" style="float:right;max-width:600px;border:3px solid;border-radius:5px;margin-right:3%;"></p>
+
+<h4>横手のかまくら</h4>
+<style>
+h4{
+  font-size: 35px;
+  color: #160F87;
+  margin-left:6%;
+　}
+</style>
+
+<div>&nbsp;&nbsp;雪でできた小さな家を作るかまくら作りは、
+雪国の代表的な雪遊びのひとつです。そのかまくらの発祥の地、
+横手市では毎年2月に、市内に100基以上ものかまくらが作られる
+「横手の雪まつり」が開催されます。かまくらの中では子どもたちが
+七輪を囲い、訪れる人々に焼き餅や甘酒を振る舞います。
+雪で作られたかまくらの中は寒そうに思えるが、実は意外と暖かいのです。</div>
+
+<style>
+div{
+  font-size: 20px;
+  color: #160F87;
+  margin-left:4%;
+}
+</style>
+
+
+  
+
+</body></html>
